@@ -14,3 +14,7 @@ body {
 .task-card:hover {
   cursor: grab;
 }
+
+.addTaskButton {
+  background-color: rgb(20, 116, 20);
+}
